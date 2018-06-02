@@ -4,9 +4,11 @@
 <strong>Example</strong>
 <li>For sequence = [1, 3, 2, 1], the output should be <br>
   almostIncreasingSequence(sequence) = false;
+  <br>
   There is no one element in this array that can be removed in order to get a strictly increasing sequence.
 </li>
 <li>For sequence = [1, 3, 2], the output should be <br>
   almostIncreasingSequence(sequence) = true.
+  <br>
   You can remove 3 from the array to get the strictly increasing sequence [1, 2]. Alternately, you can remove 2 to get the strictly increasing sequence [1, 3].
 </li>
