@@ -7,18 +7,18 @@
 <strong>Example</strong>
 <li> For 
     <br>
-      matrix = [[0, 1, 1, 2], 
-          [0, 5, 0, 0], 
-          [2, 0, 3, 3]]
+      matrix = [[0, 1, 1, 2], <br>
+          [0, 5, 0, 0], <br>
+          [2, 0, 3, 3]]<br>
     <br>
     the output should be <br>
     matrixElementsSum(matrix) = 9.
     <br>
     Here's the rooms matrix with unsuitable rooms marked with 'x': 
     <br>
-    [[x, 1, 1, 2], 
-    [x, 5, x, x], 
-    [x, x, x, x]]
+    [[x, 1, 1, 2], <br>
+    [x, 5, x, x],  <br>
+    [x, x, x, x]] <br>
     <br>
     Thus, the answer is 1 + 5 + 1 + 2 = 9.
 </li>
