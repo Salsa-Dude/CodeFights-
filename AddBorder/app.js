@@ -15,7 +15,7 @@ function addBorder(picture) {
   picture.push(wall);
 
   for(let j = 1; j < picture.length -1; j++) {
-    picture[j] = '*'.concat(picture[j], '*');
+    picture[j] = `*${picture[j]}*`;
   }
 
   return picture;
